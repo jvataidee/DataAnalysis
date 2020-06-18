@@ -19,7 +19,7 @@ Sou graduado em Ciência e Tecnologia na Universidade Federal Rural do Semi-Ári
 ## Projetos:
 Veja os projetos publicados no meu blog:
 
-* **Análise da violência no Rio de Janeiro:**[ Projeto]https://www.joaoataide.com/post/análise-da-violênca-no-rio-de-janeiro)
+* **Análise da violência no Rio de Janeiro:**[ Projeto](https://www.joaoataide.com/post/análise-da-violênca-no-rio-de-janeiro)
 * **Classificação de Roupas usando TensorFlow:**[ Projeto](https://www.joaoataide.com/post/classificação-de-roupas-com-tensorflow)
 * **Analisar os termos mais frequentes em artigos do COVID-19:**[ Projeto](https://www.joaoataide.com/post/desafio-kaggle-covid-19)
 * **Estimativa de evapotranspiração:**[ Projeto](https://www.joaoataide.com/post/estimativa-da-evapotranspiração)
