@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="bannerr.png" >
+  <img src="Prancheta 3-100.jpg" >
 </p>
 
 # João Ataíde
