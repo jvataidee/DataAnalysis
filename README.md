@@ -13,7 +13,6 @@ Sou graduado em Ciência e Tecnologia na Universidade Federal Rural do Semi-Ári
 **Links:**
 * [Blog](https://www.joaoataide.com)
 * [LinkedIn](https://www.linkedin.com/in/joaoataidee/)
-* [Medium](https://medium.com/@jooataide)
 
 
 ## Projetos:
