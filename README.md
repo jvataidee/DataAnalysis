@@ -17,16 +17,9 @@ Sou graduado em Ciência e Tecnologia na Universidade Federal Rural do Semi-Ári
 
 ## Projetos:
 Veja os projetos publicados no meu blog:
-* **Predição de Evasão de Clientes em Empresas de Telecomunicações:**[ Projeto](https://www.joaoataide.com/post/predi%C3%A7%C3%A3o-de-evas%C3%A3o-de-clientes-em-empresas-de-telecomunica%C3%A7%C3%B5es)
-* **Detecção de Fraudes em Cartões de Crédito:**[ Projeto](https://www.joaoataide.com/post/detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito)
-* **Previsão de Adoções de Animais com Prophet:**[ Projeto](https://www.joaoataide.com/post/previs%C3%A3o-de-s%C3%A9ries-temporais-com-o-prophet)
-* **Diagnóstico de COVID-19 com imagens de raio - X:**[ Projeto](https://www.joaoataide.com/post/diagn%C3%B3stico-de-covid-19-com-imagens-de-raio-x)
 * **Análises de casos de UFOs (Parte 1):**[ Projeto](https://www.joaoataide.com/post/an%C3%A1lises-de-casos-de-ufos-parte-1-1)
 * **Panorama do COVID-19 no Brasil:**[ Projeto](https://www.joaoataide.com/post/panorama-do-covid-19-no-brasil)
 * **Análise da violência no Rio de Janeiro:**[ Projeto](https://www.joaoataide.com/post/análise-da-violênca-no-rio-de-janeiro)
-* **Classificação de Roupas usando TensorFlow:**[ Projeto](https://www.joaoataide.com/post/classificação-de-roupas-com-tensorflow)
-* **Analisar os termos mais frequentes em artigos do COVID-19:**[ Projeto](https://www.joaoataide.com/post/desafio-kaggle-covid-19)
-* **Estimativa de evapotranspiração:**[ Projeto](https://www.joaoataide.com/post/estimativa-da-evapotranspiração)
 ---
 
 
