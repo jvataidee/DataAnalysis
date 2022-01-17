@@ -4,7 +4,7 @@
 </p>
 
 # João Ataíde
-<sub>*CCientista de Dados na Imagem – Soluções de Inteligência Geográfica​</sub>
+<sub>*Cientista de Dados na Imagem – Soluções de Inteligência Geográfica*</sub>
 Sou graduado em Ciência e Tecnologia na Universidade Federal Rural do Semi-Árido (UFERSA), onde trabalhei como bolsista no Acesso à Terra Urbanizada nos projetos Smart Cities, REURBE'S, MAPA e hoje no Urbis, obtive experiências práticas e teóricas na área das geotecnologias, com ênfase em levantamento cartográfico. Após essa graduação na mesma instituição me formei em Engenharia Civil.
 
 Também sou especialista em Ciência de Dados pela Universidade Norte do Paraná (UNOPAR) e especialista em Geoprocessamento e Georreferenciamento (UFERSA) e hoje estou fazendo o MBA em Pesquisa Operacional e tomada de decisão (BsBr).
