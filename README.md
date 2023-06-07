@@ -22,12 +22,11 @@ You can find the projects published on his blog:
 ## Repository Content
 The repository contains various Jupyter notebooks with different data analysis projects, including:
 
-- `Analisando_os_Dados_do_Airbnb__Toronto.ipynb`
-- `AnaliseSD.ipynb`
-- `Analise_Financeira_Mercado_Gado_de_Corte.ipynb`
-- `Analise_aparicoes_de_UFO_World_.ipynb`
-- `Analise_violencia_RJ.ipynb`
-- `Panorama_do_COVID_19_no_Brasil.ipynb`
+- [`Analisando_os_Dados_do_Airbnb__Toronto.ipynb`](https://github.com/jvataidee/DataAnalysis/blob/master/Analisando_os_Dados_do_Airbnb__Toronto.ipynb)
+- [`Analise_Financeira_Mercado_Gado_de_Corte.ipynb`](https://github.com/jvataidee/DataAnalysis/blob/master/Analise_Financeira_Mercado_Gado_de_Corte.ipynb)
+- [`Analise_aparicoes_de_UFO_World_.ipynb`](https://github.com/jvataidee/DataAnalysis/blob/master/Analise_aparicoes_de_UFO_World_.ipynb)
+- [`Analise_violencia_RJ.ipynb`](https://github.com/jvataidee/DataAnalysis/blob/master/Analise_violencia_RJ.ipynb)
+- [`Panorama_do_COVID_19_no_Brasil.ipynb`](https://github.com/jvataidee/DataAnalysis/blob/master/Panorama_do_COVID_19_no_Brasil.ipynb)
 
 ## Additional Information
 - No releases published
