@@ -1,7 +1,7 @@
 ![Project Image](DA.png)
 # Data Analysis Repository by João Ataíde
 
-João Ataíde is a Data Scientist at Imagem Esri. This repository is dedicated to his data analysis projects, where he conducts small case studies seeking insights and hypotheses for business problems.
+This repository is dedicated to his data analysis projects, where he conducts small case studies seeking insights and hypotheses for business problems.
 
 ## Background
 João has a background in Python, Pandas, Numpy, Mathplolib, Seaborn.
