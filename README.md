@@ -23,13 +23,14 @@ You can find the projects published on his blog:
 ## Repository Content
 The repository contains various Jupyter notebooks with different data analysis projects, including:
 
-- [`Analisando_os_Dados_do_Airbnb__Toronto.ipynb`](https://github.com/jvataidee/DataAnalysis/blob/master/Analisando_os_Dados_do_Airbnb__Toronto.ipynb)
-- [`Analise_Financeira_Mercado_Gado_de_Corte.ipynb`](https://github.com/jvataidee/DataAnalysis/blob/master/Analise_Financeira_Mercado_Gado_de_Corte.ipynb)
 - [`Analise_aparicoes_de_UFO_World_.ipynb`](https://github.com/jvataidee/DataAnalysis/blob/master/Analise_aparicoes_de_UFO_World_.ipynb)
-- [`Analise_violencia_RJ.ipynb`](https://github.com/jvataidee/DataAnalysis/blob/master/Analise_violencia_RJ.ipynb)
 - [`Panorama_do_COVID_19_no_Brasil.ipynb`](https://github.com/jvataidee/DataAnalysis/blob/master/Panorama_do_COVID_19_no_Brasil.ipynb)
 
 ## Additional Information
 - No releases published
 - No packages published
 - 100% Jupyter Notebook
+
+## Notebooks migrados
+
+Os notebooks deste repositório que viraram artigos do blog foram substituídos por projetos reproduzíveis (dados baixados por script, código em Python e protocolo) no repositório [artigos-blog](https://github.com/jvataidee/artigos-blog). O histórico deste repositório guarda as versões antigas.
